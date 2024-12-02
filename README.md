@@ -76,3 +76,7 @@ Created by Jay Dee
 
 GitHub: [@CptAwsm](https://github.com/CptAwsm)
 
+## Giggles
+
+How do images stay in shape?
+They do pixel-ates! 💪
